@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1093079367955",
+    "firebase_url": "https://livetv-60cf6.firebaseio.com",
+    "project_id": "livetv-60cf6",
+    "storage_bucket": "livetv-60cf6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093079367955:android:850ac4526a1db470915ae6",
+        "android_client_info": {
+          "package_name": "com.mamun.example.live_tv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093079367955-nfhm6vostad8ke1ph53mesbnjvmhjonq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPDCQXLJpmLDz81xecPtpkHF_yX2a0qcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093079367955-nfhm6vostad8ke1ph53mesbnjvmhjonq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
