@@ -4,7 +4,7 @@ import 'dart:async';
 import 'package:http/http.dart' as http;
 import 'package:live_tv/networking/CustomExcption.dart';
 class ApiProvider {
-  final String _baseUrl = "http://bdlivetv.tk/tvapi/";
+  
   final String _baseUrl2 = "http://192.168.1.107:8080/phpapi";
 
   Future<dynamic> get(String url) async {
