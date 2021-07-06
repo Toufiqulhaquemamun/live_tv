@@ -1,4 +1,4 @@
-## BD Live tv a cross-platform flutter application for watching live tv channel.
+## BD Live tv a cross-platform flutter application for watching live tv channel using bloc pattern.
 <p float="left">
   <img src="https://github.com/Toufiqulhaquemamun/live_tv/blob/main/screenshots/Screenshot_20210705_211228.jpg" width="30%" height="50%" /> 
   <img src="https://github.com/Toufiqulhaquemamun/live_tv/blob/main/screenshots/Screenshot_20210705_211246.jpg" width="30%" height="50%"/>
