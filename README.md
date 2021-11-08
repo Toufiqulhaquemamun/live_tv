@@ -1,6 +1,8 @@
 ## BD Live tv a cross-platform flutter application for watching live tv channel using bloc pattern.
 
 
+<a target="_blank" href='https://play.google.com/store/apps/details?id=com.mamun.bd_live'><img alt='Get it on Google Play' src='https://goldtonemusicgroup.com/img/goldtone/main-page/news/playstore-badge.png' height='48px'/></a>
+
 # Main Features
 
 - Browse channels
